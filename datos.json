@@ -1,0 +1,26 @@
+{
+    "names": [
+      "egret",
+      "snow-white",
+      "bright-white",
+      "cloud-dancer",
+      "gardenia",
+      "marshmallow",
+      "blanc-de-blanc",
+      "pristine",
+      "whisper-white",
+      "white-asparagus"
+    ],
+    "values": [
+        "#f3ece0",
+        "#f2f0eb",
+        "#f4f5f0",
+        "#f0eee9",
+        "#f1e8df",
+        "#f0eee4",
+        "#e7e9e7",
+        "#f2e8da",
+        "#ede6db",
+        "#e1dbc8"
+    ]
+  }
