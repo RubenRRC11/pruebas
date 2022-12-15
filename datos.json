@@ -1,26 +1,26 @@
 {
     "names": [
-      "egret",
-      "snow-white",
-      "bright-white",
-      "cloud-dancer",
-      "gardenia",
-      "marshmallow",
-      "blanc-de-blanc",
-      "pristine",
-      "whisper-white",
-      "white-asparagus"
+      "Reloj con GPS y Llamada ENJOY 4G",
+      "Reloj con GPS y llamada ICONIC Plus 4G",
+      "Reloj con GPS y llamada ICONIC Plus 4G EDICIÓN Mr. WONDERFUL",
+      "Reloj con GPS para niños con cámara Kids Superior",
+      "Reloj con GPS acuático para niños Kids Completo",
+      "Reloj 4G con GPS y llamada SLIM",
+      "Reloj con GPS acuatico Junior",
+      "Reloj con GPS para Mayores 4G",
+      "Pulsera de actividad Kids Band",
+      "Tablet infantil Evolution"
     ],
     "values": [
-        "#f3ece0",
-        "#f2f0eb",
-        "#f4f5f0",
-        "#f0eee9",
-        "#f1e8df",
-        "#f0eee4",
-        "#e7e9e7",
-        "#f2e8da",
-        "#ede6db",
-        "#e1dbc8"
+        "enjoy.jpg",
+        "iconic.jpg",
+        "wonderful.jpg",
+        "superior.jpg",
+        "completo.jpg",
+        "slim.jpg",
+        "junior.jpg",
+        "senior.jpg",
+        "band.jpg",
+        "tablet.jpg"
     ]
   }
